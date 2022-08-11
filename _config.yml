@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Sangwoo Seo's Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Sangwoo Seo"
 description              : "An amazing website."
 url                      : "https://sawoo9410.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
