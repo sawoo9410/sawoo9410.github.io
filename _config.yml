@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" , "default"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko" # "en-US"
 title                    : "Sangwoo Seo's Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
