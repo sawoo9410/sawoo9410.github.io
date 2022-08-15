@@ -1,5 +1,5 @@
 # My portfolio site
-- sawoo9410.github.io
+- https://sawoo9410.github.io/index.html
 
 # References
 - https://brunch.co.kr/@potatohands/6#comment
